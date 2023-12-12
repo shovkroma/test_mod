@@ -11,7 +11,7 @@ init:
 
     # Изображения
     
-    image sunsethouse = "mods/test_mod/cg/sunsethouse.png"
+    image sunsethouse = "mods/test_mod/cg/light_house.png"
 
     # Аудио
 
