@@ -107,3 +107,16 @@ label test_mod:
     mi "А вот и я!"
 
     th "Не удивительно"
+
+    th "Рофл будет "
+
+    show dv shy pioneer with dissolve
+
+    show dv shy pioneer with dissolve:
+        linear 0.3 xalign 0.6
+    show mi shy pioneer with dissolve:
+        linear 0.3 xalign 0.3
+
+    dv "ХУЛИ Я НА МИКУ БЛЯТЬ!?"
+
+    th"Потому что я у мамки прогромист"
