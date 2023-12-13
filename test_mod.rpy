@@ -113,12 +113,14 @@ label test_mod:
     show dv shy pioneer with dissolve
 
     show dv shy pioneer with dissolve:
-        linear 0.3 xalign 0.6
+        linear 0 xalign 0.8
     show mi shy pioneer with dissolve:
-        linear 0.3 xalign 0.3
+        linear 0 xalign 0.1
 
     dv "ХУЛИ Я НА МИКУ БЛЯТЬ!?"
 
     th"Потому что я у мамки прогромист"
 
     el "Лежать плюс сосать"
+
+    
